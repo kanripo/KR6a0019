@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大三摩惹經
+#+DATE: 2015-08-30 19:28:12.621127
+#+PROPERTY: JUAN 0
